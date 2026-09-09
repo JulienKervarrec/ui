@@ -128,3 +128,8 @@ MIT — see [LICENSE](LICENSE), with the exceptions in [NOTICE](NOTICE). The Bas
 Sans brand typefaces under `public/fonts/` are **not** MIT licensed and may not
 be reused outside this project; `NOTICE` also carries third-party attribution
 for the bundled code in `vendor/aa/`.
+
+
+## Parcours francais
+
+Une lecture pedagogique en francais de ce depot est disponible dans [docs/fr](./docs/fr) : architecture generale, matrice de deploiement (deploy.config.mjs et le middleware), le navigateur de snapshots (signature SigV4 et R2), Vibenet (faucet et catalogue de demos), et la generation de l'index pour agents.
